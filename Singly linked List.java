@@ -1,5 +1,5 @@
 /*
- *  Java Program to Implement Singly Linked List
+ *  Implement Singly Linked List
  */
  
 import java.util.Scanner;
